@@ -1,0 +1,90 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.img{
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 2px rgb(57, 57, 247);
+    margin:auto;
+    padding: 40px;
+}
+li{
+    list-style-type: circle;
+    display: inline;
+    padding: 100px;
+    font-weight: bold;
+    font-size: large;
+}
+a{
+color: #0dfd69;
+}
+h1.toothbrushes{
+    background-image: linear-gradient(to right,rgb(90, 90, 247),rgb(226, 141, 155),rgb(226, 24, 58));
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    margin: auto;
+    text-transform: capitalize;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.news{
+    background-color: rgb(199, 148, 247);
+    color: black;
+    border-radius: 10px;
+    height: 500px;
+    width: 400px;
+    margin: left;
+    display: inline;
+    padding: 10px;
+}
+h1.p{
+    text-align: center;
+    font-size: 40px;
+}
+.li2{
+    list-style-type: disc;
+    display: inline-block;
+    padding: 40px;
+} 
+.dentist{
+    background-color: rgb(235, 10, 197);
+    color: black;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    display: inline;
+    margin: left;
+}
+h1.p{
+    text-align: center;
+    font-size: 40px;
+}
+.quick{
+    background-color: rgb(233, 107, 185);
+    color: black;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    display: inline;
+    margin: left;
+}
+h1.ul{
+    text-align: center;
+    font-size: 40px;
+}
+.li3{
+    list-style-type: disc;
+    display:inline-block;
+    padding: 30px;
+}
